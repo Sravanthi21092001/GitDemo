@@ -1,0 +1,7 @@
+Practicing Git commands
+
+Day 1:
+Learned git status
+Learned git add
+Learned git commit
+Leraned automation testing
