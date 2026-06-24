@@ -8,3 +8,21 @@ Leraned automation testing
 python
 pytest
 selenium
+
+Day 2:
+Learned git status
+Learned git add
+Learned git commit
+Leraned automation testing
+python
+pytest
+selenium
+
+Day 3:
+Learned git status
+Learned git add
+Learned git commit
+Leraned automation testing
+python
+pytest
+selenium
